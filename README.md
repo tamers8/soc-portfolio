@@ -22,11 +22,6 @@ I'm a cybersecurity student at **Birzeit University**, at the **beginning** of m
 
 _Last updated: November 2026. I update this as I learn._
 
-wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
-
-sudo dpkg -i cloudflared-linux-amd64.deb
-
-cloudflared tunnel --url http://localhost:8080
 
 
 
